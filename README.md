@@ -21,3 +21,6 @@ A simple Python desktop app built with Tkinter and OpenWeather API to display re
 2. Install requirements:
    ```bash
    pip install -r requirements.txt
+3. Make a copy of .env.example and name it .env
+4. Open .env and substitute your_api_key_here with your OpenWeather API key
+5. Save file and run the program
